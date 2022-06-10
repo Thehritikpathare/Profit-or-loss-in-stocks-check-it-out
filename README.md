@@ -10,4 +10,4 @@ This app will check if you are in Profit or Loss when you enter Stocks initial p
 - HTML5
 - CSS3
 - JavaScript
-- Check out the live project - "[Live](https://rutuja0802.github.io/Profit_loss_app/)"
+- Check out the live project - "[Live - https://thehritikpathare.github.io/Profit-or-loss-in-stocks-check-it-out/)"
